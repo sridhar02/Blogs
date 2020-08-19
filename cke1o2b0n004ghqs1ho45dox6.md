@@ -21,5 +21,5 @@ They are a lot of podcasts other than these choose the one which you like and in
 
 - __Please do mention your favorite podcast in the comments I would love to try them.__
 
-> If you have any doubts related to this article or anything related to tech or software-engineering in general, drop a comment here or you can message me on twitter @ksridhar02.
+> If you have any doubts related to this article or anything related to tech or software-engineering in general, drop a comment here or you can message me on twitter [@ksridhar02](https://twitter.com/ksridhar02).
  

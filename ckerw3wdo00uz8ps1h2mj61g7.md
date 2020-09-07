@@ -36,7 +36,7 @@ Steps:
 
 #### I have created a react application with Nextjs and serverless functions for this use case. This is the sample [website](https://linkedin-oauth-example.vercel.app/). I have created which will get you your profile name and profile picture.
 
-References:
+#### References:
 
 LinkedIn developers URL: https://www.linkedin.com/developers/
 

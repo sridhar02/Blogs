@@ -6,11 +6,14 @@ I got these two errors in dev tools saying mixed content block restricted.
 
 * Network tab errors
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1600435371762/xx1OoUWsS.png)
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1600445970241/JRGT7Rbky.png)
 
 * Browser console errors
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1600435412660/vysvyBFlu.png)
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1600445836036/IBxZz56HR.png)
+
+
+
 
 
 * Now I began to wonder what is a mixed content block, I have never encountered it till now, so began to search what is it in [MDN](https://developer.mozilla.org/en-US/) as it is the best where can find answers about any issue related to web applications. I will explain the gist of it now.
